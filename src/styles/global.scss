@@ -9,9 +9,9 @@ body {
   margin-top: 0
 }
 body.light {
-  --primary-color: #381696;
+  --primary-color: #b91d32;
   --primary-text-color: #fff;
-  --featured-bg: #493b8a;
+  --featured-bg: #011e44;
   --featured-text: #fff;
   --secondary-color: #10072b;
   --background: #fff;
@@ -29,16 +29,16 @@ body.light {
   --input-bg: var(--background);
 }
 body.dark {
-  --primary-color: #9984d5;
+  --primary-color: #b91d32;
   --primary-text-color: #fff;
   --featured-bg: #66578d;
   --featured-text: #fff;
-  --secondary-color: #66578d;
-  --background: #0A041A;
+  --secondary-color: #d42139;
+  --background: #001329;
   --text-color: rgba(255,255,255,0.88);
   --text-secondary-color: rgba(255,255,255,0.66);
   --site-header: var(--background);
-  --card-bg: #181326;
+  --card-bg: #002652;
   --card-bdr: #181326;
   --card-shadow: #020204;
   --btn-bg: var(--background);
