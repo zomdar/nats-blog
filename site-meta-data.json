@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "Nats Blog",
+  "siteUrl": "https://nats-blog.netlify.com/",
+  "description": "Nats blog, a nationals fan page ",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Welcome Nationals Fans!",
+    "description": "Your weekly source of Nationals news and content. Updating fans around the globe with scores and highlights."
   }
 }
